@@ -10,7 +10,7 @@ $(document).ready(function () {
                 },
                 fields: {
                     nombre: {
-                        message: 'Nombre  invalido',
+                        message: 'Nombre  invalidos',
                         validators: {
                             notEmpty: {
                                 message: 'Se require su nombre'

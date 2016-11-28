@@ -13,7 +13,7 @@ $(document).ready(function () {
                         message: 'Nombre  invalidos',
                         validators: {
                             notEmpty: {
-                                message: 'Se require su nombre'
+                                message: 'Se require su nombre o nombres'
                             },
                             stringLength: {
                                 min: 3,
